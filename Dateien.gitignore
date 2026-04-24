@@ -1,9 +1,0 @@
-.env
-node_modules/
-server/
-python/
-src/
-.claude
-.mcp
-package-lock.json
-*.log
